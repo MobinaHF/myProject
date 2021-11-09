@@ -3,6 +3,8 @@ def odd(number):
 		return False
 	return True
 	
-def isPrime():
-	pass
-	
+def isPrime(number):
+	for range(2,number):
+		pass
+		
+
