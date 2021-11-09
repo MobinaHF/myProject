@@ -6,7 +6,3 @@ def odd(number):
 def isPrime():
 	pass
 	
-sd;lkfjsfd
-sdflkjsf
-lsdjkaf;lasjdf
-;sldajf
